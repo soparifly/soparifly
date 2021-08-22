@@ -1,3 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soparifly&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soparifly)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://simpleicons.org/icons/apple.svg" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
+
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoparifly%2Fhit-counter&count_bg=%23D7EAFF&title_bg=%23957AC9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+</div>
