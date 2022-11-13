@@ -7,7 +7,7 @@
 </br>
 </br>
 </br>
-FronentDend App Developer  -  Android / IOS FrontEnd App 💦
+ Android / IOS FrontEnd App 💦
 
 
   I will always 🐈 improve with you  Do not give up
