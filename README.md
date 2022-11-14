@@ -17,9 +17,7 @@
 ![byulook's GitHub stats](https://github-readme-stats.vercel.app/api?username=soparifly&show_icons=true&theme=panda)
 </br>
 
-</br>
-<img src="https://img.shields.io/badge/VisualStudioCode-A9A9A9?style=flat-square&logo=VisualStudioCode&logoColor=1E90FF"/><img src="https://img.shields.io/badge/AndroidStudio-black?style=flat-square&logo=AndroidStudio&logoColor=blue"/>
-</br>
+
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-DAA520?style=flat-square&logo=JavaScript&logoColor=black"/>
 </br>
@@ -40,6 +38,10 @@
 <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=black"/>
 </br>
 <img src="https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=Firebase&logoColor=yello"/>
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 <img src="https://img.shields.io/badge/ApacheTomcat-DAA520?style=flat-square&logo=ApacheTomcat&logoColor=black"/>
