@@ -19,40 +19,29 @@
 
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-DAA520?style=flat-square&logo=JavaScript&logoColor=black"/>
+
 </br>
-<img src="https://img.shields.io/badge/React-2599ED?style=flat-square&logo=React&logoColor=092540"/>
-<img src="https://img.shields.io/badge/CreateReactApp-09D3AC?style=flat-square&logo=CreateReactApp&logoColor=white"/>
 <img src="https://img.shields.io/badge/MobXStateTree-FF7102?style=flat-square&logo=MobXStateTree&logoColor=black"/>
 <img src="https://img.shields.io/badge/Observable-353E58?style=flat-square&logo=Observable&logoColor=9400D3"/>
 </br>
 <img src="https://img.shields.io/badge/Android-191970?style=flat-square&logo=Android&logoColor=3DDC84"/>
 <img src="https://img.shields.io/badge/IOS-black?style=flat-square&logo=IOS&logoColor=silver"/>
 </br>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node&logoColor=339933"/>
-<img src="https://img.shields.io/badge/npm-silver?style=flat-square&logo=npm&logoColor=CB3837"/>
 <img src="https://img.shields.io/badge/IgniteRed-white?style=flat-square&logo=Fireship&logoColor=B22222"/>
 </br>
-<img src="https://img.shields.io/badge/Metro-black?style=flat-square&logo=Metro&logoColor=1E90FF"/>
-<img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=black"/>
-</br>
-<img src="https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=Firebase&logoColor=yello"/>
 </br>
 </br>
 </br>
 </br>
 </br>
 </br>
-<img src="https://img.shields.io/badge/ApacheTomcat-DAA520?style=flat-square&logo=ApacheTomcat&logoColor=black"/>
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
-</br>
-<img src="https://img.shields.io/badge/Spring-white?style=flat-square&logo=Spring&logoColor=darkgreen"/>
-<img src="https://img.shields.io/badge/MySQL-4169E1?style=flat-square&logo=MySQL&logoColor=white"/>
-</br>
-</br>
+
+
+
+
+
+
+
 
 ☀️☀️☀️☀️  Cheer up everyone   We can do it ☀️☀️☀️☀️  
 </br>
