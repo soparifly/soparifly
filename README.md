@@ -25,8 +25,8 @@
 <img src="https://img.shields.io/badge/Observable-353E58?style=flat-square&logo=Observable&logoColor=9400D3"/>
 </br>
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/Android-191970?style=flat-square&logo=Android&logoColor=3DDC84"/>
-<img src="https://img.shields.io/badge/IOS-black?style=flat-square&logo=IOS&logoColor=silver"/>
+
+
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 
